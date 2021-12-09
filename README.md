@@ -1,4 +1,4 @@
-# E-Commerce_Recommender_System (Tianchi Competition)
+# E-Commerce_Recommender_System (Alicloud Tianchin)
 
 # Problem Statement
 A recommendation system is a tool that uses a series of algorithms, analyze the customer logs and make recommendations online. Nowdays online business competition is server but with opportunities. A good online recommendation system can bring company tremendous profits and provide customers customized services. Netflix is a world known company boosted in few years, which is an example of the power of recommendation system. People who is good at working with recommendation system takes the key positions in company reserach department. In this case, we are targeting the online shopping data in 2014 from Alibaba taobao and trying to build a recommendation system with algorithms to improve the customers experineces and logistic processes. We will also try to optimize the models with decision tree and neural network. 
